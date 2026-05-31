@@ -1,2 +1,14 @@
-# Smart-Attendance-System-Attendo
-System Analysis &amp; Design academic project. Includes requirements gathering, business analysis, use case analysis, ERD, DFD, and system planning documentation.
+Smart Attendance & Academic Monitoring System
+
+A System Analysis and Design project that aims to automate attendance tracking using QR codes, provide absence warnings, and generate academic analytics reports.
+
+Key Components:
+
+- Requirements Analysis
+- Use Case Analysis
+- ERD
+- DFD
+- Business Model Canvas
+- System Planning
+
+Team Project
